@@ -13,7 +13,7 @@
 Hello, I am Awantika Srivastava, a seasoned Python developer & Machine Learning Eng. with experience at PPS International Pvt. Ltd. in Greater Noida from January 2024 to the present. I specialize in Machine learning, deep learning, CNN, RNN, coumputer vision, python contributing to software development, coding, testing, and debugging. I am actively involved in open source projects, Object dection, hackathons and meetups with my work showcased on GitHub and my personal website.
 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://github.com/Ankit-0512-kumar/Ankit-0512-kumar/blob/main/Ankit_dev.gif"> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankit-0512-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="Ankit-0512-kumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=awantikashk2409&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
