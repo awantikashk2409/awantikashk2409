@@ -12,7 +12,7 @@
 
 Hello, I am Awantika Srivastava, a seasoned Python developer & Machine Learning Eng. with experience at PPS International Pvt. Ltd. in Greater Noida from January 2024 to the present. I specialize in Machine learning, deep learning, CNN, RNN, coumputer vision, python contributing to software development, coding, testing, and debugging. I am actively involved in open source projects, Object dection, hackathons and meetups with my work showcased on GitHub and my personal website.
 
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://github.com/Ankit-0512-kumar/Ankit-0512-kumar/blob/main/Ankit_dev.gif"> 
+<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://github.com/awantikashk2409/awantikashk2409/blob/main/Ankit_dev.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awantikashk2409&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -97,10 +97,11 @@ Hello, I am Awantika Srivastava, a seasoned Python developer & Machine Learning 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ankit-0512-kumar&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" alt="readme stats" />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-0512-kumar&theme=react" alt="Ankit-0512-kumar" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awantikashk2409&theme=react" alt="Ankit-0512-kumar" /></p>
     </div>
 <div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ankit-0512-kumar&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=awantikashk2409&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true
+" style="width: 50%" />
 </div>
 </div>
 </div>
