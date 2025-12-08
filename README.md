@@ -8,7 +8,7 @@
 
 <br/>
 
-Hello, I am **Awantika Srivastava**, a Python Developer & Machine Learning Engineer passionate about building intelligent systems.  
+Hello, I am **Awantika Srivastava**, a AI/ML Engineer passionate about building intelligent systems.  
 I work in **Machine Learning, Deep Learning, Computer Vision, Object Detection & Python-based AI Applications**.  
 I actively participate in **open source, real-world AI projects, hackathons & tech communities**.
 
@@ -24,7 +24,7 @@ I actively participate in **open source, real-world AI projects, hackathons & te
  
  🔭 I’m currently working on **AI & Software Development Projects**
  
- 🌱 I’m currently learning **Deep Learning, Time Series Forecasting & Advanced Python**
+ 🌱 I’m currently learning **LLMs, RAG, Agent AI & Time Series Forecasting**
 
 💬 Ask me about **Machine Learning, Object Detection, TensorFlow & Python**
 
