@@ -96,7 +96,7 @@ Hello, I am Awantika Srivastava, a seasoned Python developer & Machine Learning 
 <h2 align="center">⚡ Stats ⚡</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
-  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ankit-0512-kumar&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" alt="readme stats" />
+  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=awantikashk2409&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true" alt="readme stats" />
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awantikashk2409&theme=react" alt="awantikashk2409" /></p>
     </div>
 <div align="center">
