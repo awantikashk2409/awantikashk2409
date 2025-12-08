@@ -4,11 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Awantika!💻;" />
 </h1>
 
-<h3 align="center">A passionate Software & Machine Learning Developer from India</h3>
+<h3 align="center">A passionate AI/ML Engineer from Noida</h3>
 
 <br/>
 
-Hello, I am **Awantika Srivastava**, a Python Developer & Machine Learning Engineer passionate about building intelligent systems.  
+Hello, I am **Awantika Srivastava**, a AI/ML Engineer passionate about building intelligent systems.  
 I work in **Machine Learning, Deep Learning, Computer Vision, Object Detection & Python-based AI Applications**.  
 I actively participate in **open source, real-world AI projects, hackathons & tech communities**.
 
@@ -24,7 +24,7 @@ I actively participate in **open source, real-world AI projects, hackathons & te
  
  🔭 I’m currently working on **AI & Software Development Projects**
  
- 🌱 I’m currently learning **Deep Learning, Time Series Forecasting & Advanced Python**
+ 🌱 I’m currently learning **LLMs, RAG, Agent AI & Time Series Forecasting**
 
 💬 Ask me about **Machine Learning, Object Detection, TensorFlow & Python**
 
@@ -42,49 +42,6 @@ I actively participate in **open source, real-world AI projects, hackathons & te
     <img src="https://img.shields.io/badge/LinkedIn-Awantika%20Srivastava-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
-
----
-
-## 💼 Experience
-
-- **Machine Learning Intern**  
-  *Worked on real-world ML & Computer Vision projects including image classification and object detection.*  
-  - Built ML models using **Python, TensorFlow & Scikit-learn**
-  - Performed **data preprocessing, training & evaluation**
-  - Worked with **OpenCV for image processing**
-  - Improved model accuracy and performance
-
----
-
-## 🚀 Projects
-
-### 🔹 Real-Time Object Detection System  
-- Built using **Python, OpenCV & TensorFlow**
-- Detects objects in real-time using webcam/video
-- Applied **CNN-based deep learning models**
-- Used in surveillance & automation projects
-
-### 🔹 Sentiment Analysis System  
-- Developed an NLP-based system using **Scikit-learn & Python**
-- Classifies user reviews into **positive, negative & neutral**
-- Used TF-IDF, Logistic Regression & Naive Bayes
-
-### 🔹 Sales Prediction using Machine Learning  
-- Built regression-based ML model for forecasting sales
-- Used **Pandas, NumPy, Matplotlib, Scikit-learn**
-- Deployed as a Python application
-
----
-
-## 🎓 Certificates
-
-- ✅ Machine Learning with Python  
-- ✅ Deep Learning Fundamentals  
-- ✅ Python for Data Science  
-- ✅ Computer Vision with OpenCV & TensorFlow  
-- ✅ Data Analytics using Python  
-
-*(You can later replace these with your exact certificate names)*
 
 ---
 
