@@ -1,16 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ankit-0512-kumar.Ankit-0512-kumar" />
 
 <h1 align="center">
-    <a href="https://www.linkedin.com/in/ankit-kumar-ba7358128" target="_blank">
+    <a href="https://fill" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ankit+Kumar!💻;" />
     <a/>    
 </h1>
 
-<h3 align="center">A passionate software developer from Noida</h3>
+<h3 align="center">A passionate AI/ML ENGINEER from Noida</h3>
 
 <br/>
 
-Hello, I am Ankit Kumar, a seasoned Python developer & Machine Learning Eng. with experience at PT Communication in Greater Noida from april 2023 to the present. I specialize in Machine learning, deep learning, CNN, RNN, coumputer vision, python contributing to software development, coding, testing, and debugging. I am actively involved in open source projects, Object dection, hackathons and meetups with my work showcased on GitHub and my personal website.
+Hello, I am Awantika Srivastava, a seasoned Python developer & Machine Learning Eng. with experience at PPS International Pvt. Ltd. in Greater Noida from January 2024 to the present. I specialize in Machine learning, deep learning, CNN, RNN, coumputer vision, python contributing to software development, coding, testing, and debugging. I am actively involved in open source projects, Object dection, hackathons and meetups with my work showcased on GitHub and my personal website.
 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://github.com/Ankit-0512-kumar/Ankit-0512-kumar/blob/main/Ankit_dev.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankit-0512-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="Ankit-0512-kumar" /> </p>
