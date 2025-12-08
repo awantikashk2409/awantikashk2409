@@ -28,7 +28,7 @@ I actively participate in **open source, real-world AI projects, hackathons & te
 
 💬 Ask me about **Machine Learning, Object Detection, TensorFlow & Python**
 
-📫 Reach me at **awantikash24@gmail.com**
+📫 Reach me at **sawantika81@gmail.com**
 
 ⚡ Fun fact: **I enjoy solving logic puzzles & coding challenges**
 
