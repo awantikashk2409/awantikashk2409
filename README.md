@@ -12,7 +12,7 @@ Hello, I am **Awantika Srivastava**, a AI/ML Engineer passionate about building 
 I work in **Machine Learning, Deep Learning, Computer Vision, Object Detection & Python-based AI Applications**.  
 I actively participate in **open source, real-world AI projects, hackathons & tech communities**.
 
-<img align="center" alt="Coding" width="100%" src="https://github.com/awantikashk2409/awantikashk2409/blob/main/Ankit_dev.gif"> 
+<img align="center" alt="Coding" width="100%" src="https://github.com/awantikashk2409/awantikashk2409/blob/main/Awantika_dev.gif"> 
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=awantikashk2409&label=Profile%20views&color=0e75b6&style=flat" alt="awantikashk2409" /> 
